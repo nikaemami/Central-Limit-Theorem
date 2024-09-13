@@ -13,7 +13,7 @@ In this project, we investigated the Central Limit Theorem (CLT) through practic
   
      Results are as below:
 
-     <img src="images/1.png" width="400"/>
+     <img src="images/1.png" width="600"/>
 
 3. **Wine Dataset Analysis**:
    - Next we load another dataset, and we plot its distribution function to understand its characteristics.
@@ -21,18 +21,18 @@ In this project, we investigated the Central Limit Theorem (CLT) through practic
 
      Some samples are as below:
 
-     <img src="images/2.png" width="400"/>
+     <img src="images/2.png" width="600"/>
 
       
 We compared the resulting distribution of sample means with the normal distribution and evaluated the mean and standard deviation against the theoretical predictions of the CLT. Results are as below:
 
 Comparing the results with the new normal distributions for data from the first dataset:
 
-<img src="images/4.png" width="400"/>
+<img src="images/4.png" width="600"/>
 
 Comparing the results with the new normal distributions for data from the second dataset:
 
-<img src="images/3.png" width="400"/>
+<img src="images/3.png" width="600"/>
 
 
      
